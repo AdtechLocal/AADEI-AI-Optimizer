@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Private Dominion Dashboard – 144 Codebase</title>
+  <style>
+    body { background-color: #111; color: #eee; font-family: 'Segoe UI', sans-serif; padding: 40px; }
+    h1 { color: #ffd700; }
+    .section { border: 1px solid #333; padding: 20px; margin-bottom: 20px; border-radius: 10px; background-color: #1b1b1b; }
+    a, a:visited { color: #55aaff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>🔐 Private Dominion Dashboard – 144 Codebase</h1>
+  <div class="section">
+    <h2>⚙️ Command Center</h2>
+    <ul>
+      <li><a href="#">Initiate Broadcast Protocol</a></li>
+      <li><a href="#">Regenerate Scroll Assets</a></li>
+      <li><a href="#">Launch Elect Campaign</a></li>
+      <li><a href="#">Generate AI Builder Bot</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>📂 Strategic Downloads</h2>
+    <ul>
+      <li><a href="Document_1_4squared_O3_Presentation.pdf" download>Elect Infrastructure Presentation (PDF)</a></li>
+      <li><a href="Document_1_4squared_O3_Full_Package.zip" download>All Kingdom Files (ZIP)</a></li>
+      <li><a href="Project_Integrity_Checklist_1_4squared_O3.pdf" download>Integrity Checklist</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🛡️ Identity & Code Embed</h2>
+    <p>Add this signature to your sites:</p>
+    <code>&lt;script src="divine_protocol.js"&gt;&lt;/script&gt;</code>
+    <p><a href="Divine_Infrastructure_Demo_Site.zip" download>Download Protocol Package</a></p>
+  </div>
+</body>
+</html>
